@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:pharmacy/screens/bottom_navigation.dart';
 
 void main() async {
-  // WidgetsFlutterBinding.ensureInitialized();
-  // await Firebase.initializeApp();
+   WidgetsFlutterBinding.ensureInitialized();
+   await Firebase.initializeApp();
   runApp(MyApp());
 }
 
