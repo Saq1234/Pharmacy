@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68727418212",
+    "project_id": "pharmacy-b80dc",
+    "storage_bucket": "pharmacy-b80dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68727418212:android:14703a6703315c5af75e71",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kjT9dxoa260Lu8VmP68eRX9nCO80Px8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
